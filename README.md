@@ -1,2 +1,2 @@
 # my-first-projec
-# About my first project on GitHub
+# 以上为智能安防系统核心代码
